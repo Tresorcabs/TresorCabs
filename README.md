@@ -4,6 +4,9 @@
   Développeur Web & Mobile | Passionné par le design UI/UX | Stack: React, React Native, Flask, SQLite, MySQL, ...
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3M1Ym8yZ2Njb2R2ZTRpM3FxbW94aHQ4aGN3amVhMW04ZHRyYzd2bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aUOybJtXViDz5iZ3zD/giphy.gif" width="300" alt="code gif" />
+</p>
 
 <p align="center">
   <a href="https://github.com/TresorCabs">
@@ -34,7 +37,7 @@
 ## 🏆 Trophées GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TresorCabs&theme=flat&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TresorCabs&theme=onedark&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -42,11 +45,19 @@
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TresorCabs&show_icons=true&theme=dark&hide=issues" alt="stats github"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TresorCabs&show_icons=true&theme=onedark&hide=issues" alt="stats github"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TresorCabs&layout=compact&langs_count=6&hide=html" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TresorCabs&layout=compact&langs_count=6&hide=html&theme=onedark" alt="top langs"/>
+</p>
+
+---
+
+## 🕒 Activité récente
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TresorCabs&theme=github-compact" alt="graph activité">
 </p>
 
 ---
