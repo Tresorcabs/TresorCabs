@@ -9,9 +9,6 @@
   <a href="https://github.com/TresorCabs">
     <img src="https://komarev.com/ghpvc/?username=TresorCabs&label=Profil%20visité&color=0e75b6&style=flat" alt="visiteurs"/>
   </a>
-  <a href="https://github.com/TresorCabs">
-    <img src="https://img.shields.io/github/join-date/TresorCabs?label=GitHub%20depuis&color=blue" alt="ancienneté"/>
-  </a>
   <img src="https://img.shields.io/badge/React%20Native-en%20apprentissage-blueviolet?logo=react" alt="React Native"/>
   <img src="https://img.shields.io/badge/Flask-en%20cours-lightgrey?logo=flask" alt="Flask"/>
   <img src="https://img.shields.io/badge/SQLite-Backend-blue?logo=sqlite" alt="SQLite"/>
@@ -45,7 +42,7 @@
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TresorCabs&show_icons=true&theme=default&hide=issues" alt="stats github"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TresorCabs&show_icons=true&theme=dark&hide=issues" alt="stats github"/>
 </p>
 
 <p align="center">
