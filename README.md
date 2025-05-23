@@ -10,9 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/TresorCabs">
-    <img src="https://komarev.com/ghpvc/?username=TresorCabs&label=Profil%20visité&color=0e75b6&style=flat" alt="visiteurs"/>
+    <img src="https://komarev.com/ghpvc/?username=TresorCabs&label=Nombre%20visiteurs&color=0e75b6&style=flat" alt="visiteurs"/>
   </a>
-  <img src="https://img.shields.io/badge/React%20Native-en%20apprentissage-blueviolet?logo=react" alt="React Native"/>
+  <img src="https://img.shields.io/badge/React%20Native%20+%20React-en%20apprentissage-blueviolet?logo=react" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Python-en%20cours-lightgrey?logo=python" alt="Python"/>
   <img src="https://img.shields.io/badge/Flask-en%20cours-lightgrey?logo=flask" alt="Flask"/>
   <img src="https://img.shields.io/badge/SQLite-Backend-blue?logo=sqlite" alt="SQLite"/>
 </p>
@@ -22,7 +23,8 @@
 ### 🧰 Stack Technique
 - ⚛️ React Native & Expo
 - 🧩 React JS
-- 🐍 Flask (API REST)
+- 🐍 Python
+- 🦭 Flask (API REST)
 - 🗂️ SQLite & MySQL
 
 
@@ -59,6 +61,10 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TresorCabs&theme=github-compact" alt="graph activité">
 </p>
+
+---
+## 🦊 Visiteurs
+<img src="https://profile-counter.glitch.me/TresorCabs/count.svg" />
 
 ---
 
