@@ -63,6 +63,7 @@
 </p>
 
 ---
+
 ## 🦊 Visiteurs
 <img src="https://profile-counter.glitch.me/TresorCabs/count.svg" />
 
@@ -72,6 +73,9 @@
 - 📧 tresorbio16@gmail.com
 - 💼 LinkedIn : [Mon profil](https://www.linkedin.com/in/trésor-kochele-327bb0300/)
 
+---
+
+> Dernière mise à jour : 20/06/2025
 
 <!--
 **Tresorcabs/TresorCabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
