@@ -6,6 +6,9 @@ on:
     - cron: '0 7 * * *' # Chaque jour à 7h UTC
   workflow_dispatch: # Permet aussi de lancer manuellement
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
