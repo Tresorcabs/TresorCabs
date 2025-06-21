@@ -22,9 +22,6 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Installer dépendances (si besoin)
-        run: npm install
-
       - name: Lancer le script
         run: |
           node update-readme.js || true
