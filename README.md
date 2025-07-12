@@ -75,7 +75,7 @@
 
 ---
 
-> Dernière mise à jour : 11/07/2025
+> Dernière mise à jour : 12/07/2025
 
 <!--
 **Tresorcabs/TresorCabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
