@@ -6,7 +6,11 @@ on:
   schedule:
     # Tous les jours à 7h04 UTC 
     - cron: '04 7 * * *'
-
+    
+permissions:
+  contents: write
+  actions: write
+  
 jobs:
   update-readme:
     runs-on: ubuntu-latest
