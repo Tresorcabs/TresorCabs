@@ -126,7 +126,7 @@ const Cabs = {
 <div align="center">
 
 ### 🐍 Snake Game (Contributions)
-![Snake animation](https://github.com/TresorCabs/TresorCabs/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/TresorCabs/TresorCabs/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ### 💡 Citation du Jour
 > "Le code est comme l'humour. Quand tu dois l'expliquer, c'est mauvais." – Cory House
