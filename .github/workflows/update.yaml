@@ -1,129 +1,41 @@
-name: 🤖 Mise à jour quotidienne du README
+name: 🤖 Update README quotidien
 
 on:
-  schedule:
-    # Tous les jours à 7h UTC (8h en heure française en hiver, 9h en été)
-    - cron: '0 7 * * *'
-  
-  # Permet de lancer manuellement l'action
+  push:
   workflow_dispatch:
-
-permissions:
-  contents: write
-  actions: write
+  schedule:
+    # Tous les jours à 7h04 UTC 
+    - cron: '04 7 * * *'
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    
+    strategy:
+      matrix:
+        node-version: [20.x]
+        
     steps:
-    - name: 📥 Checkout du repository
-      uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        fetch-depth: 0
-    
-    - name: 🔧 Configuration de Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '20'
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v3
         
-    - name: 📊 Vérification des fichiers
-      run: |
-        echo "📁 Fichiers présents :"
-        ls -la
-        echo "📄 Contenu actuel du README :"
-        head -5 README.md || echo "Pas de README trouvé"
-        
-    - name: 🎯 Exécution du script de mise à jour
-      run: |
-        echo "🚀 Lancement du script..."
-        node update-readme.js
-        echo "✅ Script terminé"
-        
-    - name: 📋 Vérification des changements
-      id: verify-changed-files
-      run: |
-        echo "🔍 Vérification des modifications..."
-        if git diff --quiet; then
-          echo "❌ Aucun changement détecté"
-          echo "changed=false" >> $GITHUB_OUTPUT
-        else
-          echo "✅ Changements détectés !"
-          echo "📝 Détails des modifications :"
-          git diff --name-only
-          echo "changed=true" >> $GITHUB_OUTPUT
-        fi
-        
-    - name: 🎨 Ajout de modifications créatives (si pas de changements)
-      if: steps.verify-changed-files.outputs.changed == 'false'
-      run: |
-        echo "🎲 Ajout de modifications créatives..."
-        
-        # Ajouter un timestamp invisible en commentaire
-        TIMESTAMP=$(date +"%Y%m%d%H%M%S")
-        echo "<!-- Updated: $TIMESTAMP -->" >> README.md
-        
-        # Modifier légèrement un espace ou caractère invisible
-        sed -i "s/Dernière mise à jour automatique/Dernière mise à jour automatique/g" README.md
-        
-        echo "✨ Modifications créatives ajoutées"
-        git diff
-        
-    - name: ⚙️ Configuration Git
-      run: |
-        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        
-    - name: 📤 Commit et Push des modifications
-      run: |
-        echo "📝 Staging des fichiers..."
-        git add README.md
-        
-        # Vérifier s'il y a des changements staged
-        if git diff --staged --quiet; then
-          echo "❌ Aucun changement à commiter après staging"
-          exit 0
-        else
-          echo "✅ Changements staged détectés, commit en cours..."
+      - name: 🔧 Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
           
-          # Messages de commit variés
-          MESSAGES=(
-            "🤖 Mise à jour quotidienne du profil"
-            "📊 Actualisation des stats et données"
-            "✨ Refresh automatique du README"
-            "🔄 Synchronisation quotidienne"
-            "📈 Mise à jour des métriques"
-            "🌟 Actualisation du profil"
-            "🚀 Update automatique quotidien"
-            "💫 Refresh des informations"
-          )
+      - name: 📊 Generate updated README.md
+        run: |
+          node update-readme.js > README.md
+        env:
+          CI: true
           
-          # Sélectionner un message aléatoire
-          RANDOM_MESSAGE=${MESSAGES[$RANDOM % ${#MESSAGES[@]}]}
-          
-          echo "💬 Message de commit : $RANDOM_MESSAGE"
-          git commit -m "$RANDOM_MESSAGE"
-          
-          echo "🚀 Push vers GitHub..."
-          git push
-          
-          echo "🎉 Commit et push réussis !"
-        fi
-        
-    - name: 📊 Récapitulatif
-      if: always()
-      run: |
-        echo "📋 RÉCAPITULATIF DE L'EXÉCUTION"
-        echo "================================"
-        echo "📅 Date : $(date)"
-        echo "🔗 Repository : ${{ github.repository }}"
-        echo "🌿 Branche : ${{ github.ref_name }}"
-        echo "👤 Acteur : ${{ github.actor }}"
-        echo "🎯 Event : ${{ github.event_name }}"
-        
-        # Vérifier le dernier commit
-        echo "📝 Dernier commit :"
-        git log -1 --oneline || echo "Impossible de récupérer le dernier commit"
-        
-        echo "✅ Action terminée avec succès !"
+      - name: 📤 Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: Cabs-Bot
+          author_email: tresorbio16@gmail.com
+          force: false
+          signoff: false
+          message: '🤖 README.md mis à jour automatiquement par Cabs'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
