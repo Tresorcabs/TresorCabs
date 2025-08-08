@@ -18,7 +18,6 @@
 
 <!-- Compteur personnalisé qui s'incrémente à chaque visite -->
 ![Visiteurs](https://komarev.com/ghpvc/?username=TresorCabs&label=Visiteurs+Total&color=0e75b6&style=for-the-badge)
-![Profil Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTresorCabs%2FTresorCabs&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Vues+Aujourd%27hui&edge_flat=false)
 
 **🎯 Objectif 2025 :** 1000 visiteurs uniques !
 
@@ -169,7 +168,7 @@ const Cabs = {
 
 > 🤖 **Dernière mise à jour automatique :** 08/08/2025  
 > 🔄 **Prochaine mise à jour :** Demain à 7h UTC  
-> 💻 **Commits cette année :** `git log --since="2025-01-01" --oneline | wc -l`
+> 💻 **Jour de l'année :** `Jour 220/365`
 
 </div>
 
