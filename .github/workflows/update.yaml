@@ -1,38 +1,129 @@
-# .github/workflows/update.yml
-name: Auto Commit README
+name: 🤖 Mise à jour quotidienne du README
 
 on:
   schedule:
-    - cron: '0 7 * * *' # Chaque jour à 7h UTC
-  workflow_dispatch: # Permet aussi de lancer manuellement
+    # Tous les jours à 7h UTC (8h en heure française en hiver, 9h en été)
+    - cron: '0 7 * * *'
+  
+  # Permet de lancer manuellement l'action
+  workflow_dispatch:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
+    
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        with:
-          ref: main
-
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '20'
-
-      - name: Lancer le script
-        run: |
-          node update-readme.js || true
-
-      - name: Commit et push si modifications
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Mise à jour quotidienne du README"
+    - name: 📥 Checkout du repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
+    
+    - name: 🔧 Configuration de Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        
+    - name: 📊 Vérification des fichiers
+      run: |
+        echo "📁 Fichiers présents :"
+        ls -la
+        echo "📄 Contenu actuel du README :"
+        head -5 README.md || echo "Pas de README trouvé"
+        
+    - name: 🎯 Exécution du script de mise à jour
+      run: |
+        echo "🚀 Lancement du script..."
+        node update-readme.js
+        echo "✅ Script terminé"
+        
+    - name: 📋 Vérification des changements
+      id: verify-changed-files
+      run: |
+        echo "🔍 Vérification des modifications..."
+        if git diff --quiet; then
+          echo "❌ Aucun changement détecté"
+          echo "changed=false" >> $GITHUB_OUTPUT
+        else
+          echo "✅ Changements détectés !"
+          echo "📝 Détails des modifications :"
+          git diff --name-only
+          echo "changed=true" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: 🎨 Ajout de modifications créatives (si pas de changements)
+      if: steps.verify-changed-files.outputs.changed == 'false'
+      run: |
+        echo "🎲 Ajout de modifications créatives..."
+        
+        # Ajouter un timestamp invisible en commentaire
+        TIMESTAMP=$(date +"%Y%m%d%H%M%S")
+        echo "<!-- Updated: $TIMESTAMP -->" >> README.md
+        
+        # Modifier légèrement un espace ou caractère invisible
+        sed -i "s/Dernière mise à jour automatique/Dernière mise à jour automatique/g" README.md
+        
+        echo "✨ Modifications créatives ajoutées"
+        git diff
+        
+    - name: ⚙️ Configuration Git
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        
+    - name: 📤 Commit et Push des modifications
+      run: |
+        echo "📝 Staging des fichiers..."
+        git add README.md
+        
+        # Vérifier s'il y a des changements staged
+        if git diff --staged --quiet; then
+          echo "❌ Aucun changement à commiter après staging"
+          exit 0
+        else
+          echo "✅ Changements staged détectés, commit en cours..."
+          
+          # Messages de commit variés
+          MESSAGES=(
+            "🤖 Mise à jour quotidienne du profil"
+            "📊 Actualisation des stats et données"
+            "✨ Refresh automatique du README"
+            "🔄 Synchronisation quotidienne"
+            "📈 Mise à jour des métriques"
+            "🌟 Actualisation du profil"
+            "🚀 Update automatique quotidien"
+            "💫 Refresh des informations"
+          )
+          
+          # Sélectionner un message aléatoire
+          RANDOM_MESSAGE=${MESSAGES[$RANDOM % ${#MESSAGES[@]}]}
+          
+          echo "💬 Message de commit : $RANDOM_MESSAGE"
+          git commit -m "$RANDOM_MESSAGE"
+          
+          echo "🚀 Push vers GitHub..."
           git push
+          
+          echo "🎉 Commit et push réussis !"
+        fi
+        
+    - name: 📊 Récapitulatif
+      if: always()
+      run: |
+        echo "📋 RÉCAPITULATIF DE L'EXÉCUTION"
+        echo "================================"
+        echo "📅 Date : $(date)"
+        echo "🔗 Repository : ${{ github.repository }}"
+        echo "🌿 Branche : ${{ github.ref_name }}"
+        echo "👤 Acteur : ${{ github.actor }}"
+        echo "🎯 Event : ${{ github.event_name }}"
+        
+        # Vérifier le dernier commit
+        echo "📝 Dernier commit :"
+        git log -1 --oneline || echo "Impossible de récupérer le dernier commit"
+        
+        echo "✅ Action terminée avec succès !"
