@@ -4,7 +4,7 @@ on:
   # Run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *"
-  
+
   # Allows to manually run the job at any time
   workflow_dispatch:
   
@@ -12,7 +12,9 @@ on:
   push:
     branches:
     - main
-
+permissions:
+  contents: write
+  
 jobs:
   generate:
     runs-on: ubuntu-latest
