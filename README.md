@@ -1,93 +1,186 @@
-<h1 align="center">Salut 👋, moi c'est Cabs</h1>
+<div align="center">
 
-<p align="center">
-  Développeur Web & Mobile | Passionné par le design UI/UX | Stack: React, React Native, Flask, SQLite, MySQL, ...
-</p>
+# 👋 Salut, moi c'est Cabs !
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25uc3kwNTdhaGtmbmhrZnlybHY0dncxcTc5dnR6YmZia25ldW0ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt=">_<"/>
-</p>
+*Développeur Web & Mobile | Passionné par le design UI/UX*
 
-<p align="center">
-  <a href="https://github.com/TresorCabs">
-    <img src="https://komarev.com/ghpvc/?username=TresorCabs&label=Nombre%20visiteurs&color=0e75b6&style=flat" alt="visiteurs"/>
-  </a>
-  <img src="https://img.shields.io/badge/React%20Native%20+%20React-en%20apprentissage-blueviolet?logo=react" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Python-en%20cours-lightgrey?logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/Flask-en%20cours-lightgrey?logo=flask" alt="Flask"/>
-  <img src="https://img.shields.io/badge/SQLite-Backend-blue?logo=sqlite" alt="SQLite"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Développeur+Full+Stack;Passionné+de+Tech;Créateur+d'expériences+digitales;Toujours+en+apprentissage+🚀)](https://git.io/typing-svg)
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25uc3kwNTdhaGtmbmhrZnlybHY0dncxcTc5dnR6YmZia25ldW0ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+
+</div>
 
 ---
 
-### 🧰 Stack Technique
-- ⚛️ React Native & Expo
-- 🧩 React JS
-- 🐍 Python
-- 🦭 Flask (API REST)
-- 🗂️ SQLite & MySQL
+## 📊 Compteur de Visiteurs en Temps Réel
 
+<div align="center">
 
----
+<!-- Compteur personnalisé qui s'incrémente à chaque visite -->
+![Visiteurs](https://komarev.com/ghpvc/?username=TresorCabs&label=Visiteurs+Total&color=0e75b6&style=for-the-badge)
+![Profil Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTresorCabs%2FTresorCabs&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Vues+Aujourd%27hui&edge_flat=false)
 
-### 🔭 Projets en cours
-- 📡 Application de messagerie d’entreprise avec support de discussion, projets, tâches, et déploiement sur site client
-- 🧪 Test de fonctionnalités, synchronisation locale + serveur, sécurisation des données
+**🎯 Objectif 2025 :** 1000 visiteurs uniques !
+
+</div>
 
 ---
 
-## 🏆 Trophées GitHub
+## 🛠️ Stack Technique Complète
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TresorCabs&theme=onedark&no-frame=true&margin-w=10" />
-</p>
+<div align="center">
 
----
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📊 Statistiques GitHub
+### Backend & Base de Données
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TresorCabs&show_icons=true&theme=onedark&hide=issues" alt="stats github"/>
-</p>
+### Outils & Plateformes
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TresorCabs&layout=compact&langs_count=6&hide=html&theme=onedark" alt="top langs"/>
-</p>
-
----
-
-## 🕒 Activité récente
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TresorCabs&theme=github-compact" alt="graph activité">
-</p>
-
----
-
-## 🦊 Visiteurs
-<img src="https://profile-counter.glitch.me/TresorCabs/count.svg" />
+</div>
 
 ---
 
-### 📫 Me contacter
-- 📧 tresorbio16@gmail.com
-- 💼 LinkedIn : [Mon profil](https://www.linkedin.com/in/trésor-kochele-327bb0300/)
+## 🚀 Projets Phares
+
+### 📱 Application de Messagerie d'Entreprise
+- **Technologies :** React Native, Flask, SQLite
+- **Fonctionnalités :** Chat temps réel, gestion de projets, attribution de tâches
+- **Statut :** 🚧 En développement actif
+- **Déploiement :** Sur site client avec synchronisation locale/serveur
+
+### 🔐 Système de Sécurisation de Données
+- **Technologies :** Python, Cryptographie
+- **Objectif :** Protection avancée des données utilisateur
+- **Statut :** 🧪 Phase de test
+
+### 🌐 Portfolio Interactif
+- **Technologies :** React, CSS Animations
+- **Particularités :** Design responsive, animations fluides
+- **Statut :** ✅ Déployé
 
 ---
 
-> Dernière mise à jour : 08/08/2025
+## 🎯 Ce qui me passionne
+
+```javascript
+const Cabs = {
+    code: ["JavaScript", "Python", "SQL"],
+    technologies: {
+        mobile: ["React Native", "Expo"],
+        frontend: ["React", "HTML", "CSS"],
+        backend: ["Flask", "SQLite", "MySQL"],
+        tools: ["Git", "VS Code", "Postman"]
+    },
+    currentFocus: "Développement d'applications mobiles",
+    funFact: "J'adore résoudre des problèmes complexes avec du code élégant ✨"
+};
+```
+
+---
+
+## 🏆 Réalisations GitHub
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=TresorCabs&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=7" />
+</div>
+
+---
+
+## 📈 Statistiques GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TresorCabs&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Stats GitHub"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TresorCabs&layout=compact&langs_count=8&theme=onedark&hide_border=true" alt="Langages les plus utilisés"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TresorCabs&theme=onedark&hide_border=true" alt="Streak Stats"/>
+</div>
+
+---
+
+## 📊 Graphique d'Activité
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TresorCabs&theme=github-compact&hide_border=true" alt="Graphique d'activité">
+</div>
+
+---
+
+## 🎮 Zone Fun
+
+<div align="center">
+
+### 🐍 Snake Game (Contributions)
+![Snake animation](https://github.com/TresorCabs/TresorCabs/blob/output/github-contribution-grid-snake.svg)
+
+### 💡 Citation du Jour
+> "Le code est comme l'humour. Quand tu dois l'expliquer, c'est mauvais." – Cory House
+
+### 🎲 Fait Aléatoire
+- 🍕 Nombre de pizzas consommées pendant le coding : ∞
+- ☕ Café bu aujourd'hui : `Math.floor(Math.random() * 10) + 1`
+- 🎵 Actuellement en train d'écouter : Lo-fi Hip Hop
+
+</div>
+
+---
+
+## 📫 Connectons-nous !
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tresorbio16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trésor-kochele-327bb0300/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TresorCabs)
+
+**📧 tresorbio16@gmail.com**
+
+*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 🚀*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Merci pour votre visite !
+
+*"Chaque ligne de code est une opportunité d'apprendre quelque chose de nouveau."*
+
+**⭐ N'oubliez pas de star mes repos si ils vous plaisent !**
+
+---
+
+> 🤖 **Dernière mise à jour automatique :** 08/08/2025  
+> 🔄 **Prochaine mise à jour :** Demain à 7h UTC  
+> 💻 **Commits cette année :** `git log --since="2025-01-01" --oneline | wc -l`
+
+</div>
 
 <!--
-**Tresorcabs/TresorCabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TresorCabs/TresorCabs** is a ✨ *special* ✨ repository!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Fun facts about this README:
+- 🤖 Updated automatically every day
+- 📊 Real visitor counter
+- 🐍 Snake game from contributions
+- ⚡ Dynamic typing animation
+- 🎨 Modern badge designs
+- 📈 Comprehensive GitHub stats
 -->
