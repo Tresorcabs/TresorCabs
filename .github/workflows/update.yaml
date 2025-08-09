@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   schedule:
     # Tous les jours à 7h04 UTC (décalage de quelques minutes pour éviter la congestion)
-    - cron: '7 7 * * *'
+    - cron: '7 9 * * *'
     
 # Éviter les exécutions simultanées
 concurrency:
