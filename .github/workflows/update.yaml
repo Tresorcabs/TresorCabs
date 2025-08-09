@@ -5,8 +5,8 @@ on:
     branches: [ main, master ] # Spécifier les branches explicitement
   workflow_dispatch:
   schedule:
-    # Tous les jours à 7h04 UTC (décalage de quelques minutes pour éviter la congestion)
-    - cron: '7 9 * * *'
+    # Tous les jours à 7h07 UTC (décalage de quelques minutes pour éviter la congestion)
+    - cron: '7 7 * * *'
     
 # Éviter les exécutions simultanées
 concurrency:
