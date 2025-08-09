@@ -31,12 +31,16 @@ jobs:
         uses: actions/setup-node@v4 # Version plus récente
         with:
           node-version: '20.x'
-          cache: 'npm' # Cache automatique
+          # Pas de cache si pas de package.json
           
       - name: 📦 Install dependencies (si nécessaire)
         run: |
+          # Vérifier si package.json existe avant d'installer
           if [ -f package.json ]; then
+            echo "📦 Installation des dépendances..."
             npm ci
+          else
+            echo "ℹ️ Pas de package.json trouvé, utilisation de Node.js vanilla"
           fi
           
       - name: 📊 Generate updated README.md
