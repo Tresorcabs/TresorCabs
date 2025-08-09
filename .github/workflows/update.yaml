@@ -2,10 +2,16 @@ name: 🤖 Update README quotidien
 
 on:
   push:
+    branches: [ main, master ] # Spécifier les branches explicitement
   workflow_dispatch:
   schedule:
-    # Tous les jours à 7h04 UTC 
-    - cron: '04 7 * * *'
+    # Tous les jours à 7h04 UTC (décalage de quelques minutes pour éviter la congestion)
+    - cron: '7 7 * * *'
+    
+# Éviter les exécutions simultanées
+concurrency:
+  group: readme-update
+  cancel-in-progress: false
     
 permissions:
   contents: write
@@ -14,32 +20,72 @@ permissions:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [20.x]
-        
+    
     steps:
       - name: 📥 Checkout repository
-        uses: actions/checkout@v3
-        
-      - name: 🔧 Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v3
+        uses: actions/checkout@v4 # Version plus récente
         with:
-          node-version: ${{ matrix.node-version }}
+          fetch-depth: 0 # Récupérer tout l'historique
+          
+      - name: 🔧 Use Node.js 20.x
+        uses: actions/setup-node@v4 # Version plus récente
+        with:
+          node-version: '20.x'
+          cache: 'npm' # Cache automatique
+          
+      - name: 📦 Install dependencies (si nécessaire)
+        run: |
+          if [ -f package.json ]; then
+            npm ci
+          fi
           
       - name: 📊 Generate updated README.md
         run: |
+          # Vérifier que le script existe
+          if [ ! -f update-readme.js ]; then
+            echo "❌ Fichier update-readme.js introuvable"
+            exit 1
+          fi
+          
+          # Générer le nouveau README
           node update-readme.js > README.md
+          
+          # Vérifier que le fichier a été généré
+          if [ ! -s README.md ]; then
+            echo "❌ README.md vide ou non généré"
+            exit 1
+          fi
+          
+          echo "✅ README.md généré avec succès"
         env:
           CI: true
+          TZ: Europe/Paris # Définir le fuseau horaire
+          
+      - name: 🔍 Check for changes
+        id: verify-changed-files
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "✅ Des changements ont été détectés"
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "ℹ️ Aucun changement détecté"
+          fi
           
       - name: 📤 Commit changes
+        if: steps.verify-changed-files.outputs.changed == 'true'
         uses: EndBug/add-and-commit@v9
         with:
           author_name: Cabs-Bot
           author_email: tresorbio16@gmail.com
           force: false
           signoff: false
-          message: '🤖 README.md mis à jour automatiquement par Cabs'
+          message: '🤖 README.md mis à jour automatiquement par Cabs - $(date -u +"%Y-%m-%d %H:%M UTC")'
+          add: 'README.md'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: 📝 Log execution
+        run: |
+          echo "🕐 Exécution terminée à $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+          echo "📊 Status: ${{ job.status }}"
