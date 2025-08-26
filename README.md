@@ -129,15 +129,15 @@ const Cabs = {
 ![Snake animation](https://github.com/TresorCabs/TresorCabs/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ### 💡 Citation du Jour
-> "Clean code always looks like it was written by someone who cares. – Robert C. Martin"
+> "Experience is the name everyone gives to their mistakes. – Oscar Wilde"
 
 ### 🎲 Fait Aléatoire
 - 🍕 Nombre de pizzas consommées pendant le coding : ∞
-- ☕ Café bu aujourd'hui : `6 tasses`
-- 🎵 Actuellement en train d'écouter : Ambient
+- ☕ Café bu aujourd'hui : `5 tasses`
+- 🎵 Actuellement en train d'écouter : Lo-fi Hip Hop
 
 ### 🔥 Fun Fact du Jour
-Le premier bug informatique était un vrai insecte coincé dans un ordinateur ! 🐛
+Un développeur passe en moyenne 22% de son temps à déboguer 🔧
 
 </div>
 
@@ -153,7 +153,7 @@ Le premier bug informatique était un vrai insecte coincé dans un ordinateur ! 
 
 **📧 tresorbio16@gmail.com**
 
-*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! ⚙️*
+*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! ✨*
 
 </div>
 
@@ -169,9 +169,9 @@ Le premier bug informatique était un vrai insecte coincé dans un ordinateur ! 
 
 ---
 
-> 🤖 **Dernière mise à jour automatique :** 25/08/2025 à 09:27  
+> 🤖 **Dernière mise à jour automatique :** 26/08/2025 à 09:26  
 > 🔄 **Prochaine mise à jour :** Demain à 7h UTC  
-> 💻 **Jour de l'année :** `Jour 237/365`
+> 💻 **Jour de l'année :** `Jour 238/365`
 
 </div>
 
@@ -187,5 +187,5 @@ Fun facts about this README:
 - 📈 Comprehensive GitHub stats
 - 🎲 Random content that changes daily
 
-Generated on: 25/08/2025 at 09:27
+Generated on: 26/08/2025 at 09:26
 -->
