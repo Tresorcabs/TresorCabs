@@ -129,15 +129,15 @@ const Cabs = {
 ![Snake animation](https://github.com/TresorCabs/TresorCabs/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ### 💡 Citation du Jour
-> "Experience is the name everyone gives to their mistakes. – Oscar Wilde"
+> "Un bon code est son propre meilleur documentation. – Steve McConnell"
 
 ### 🎲 Fait Aléatoire
 - 🍕 Nombre de pizzas consommées pendant le coding : ∞
 - ☕ Café bu aujourd'hui : `3 tasses`
-- 🎵 Actuellement en train d'écouter : Classical
+- 🎵 Actuellement en train d'écouter : Blues
 
 ### 🔥 Fun Fact du Jour
-90% du code mondial a été écrit ces 2 dernières années 📈
+Un développeur passe en moyenne 22% de son temps à déboguer 🔧
 
 </div>
 
@@ -153,7 +153,7 @@ const Cabs = {
 
 **📧 tresorbio16@gmail.com**
 
-*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! ✨*
+*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 🌟*
 
 </div>
 
@@ -169,9 +169,9 @@ const Cabs = {
 
 ---
 
-> 🤖 **Dernière mise à jour automatique :** 20/09/2025 à 09:22  
+> 🤖 **Dernière mise à jour automatique :** 21/09/2025 à 09:20  
 > 🔄 **Prochaine mise à jour :** Demain à 7h UTC  
-> 💻 **Jour de l'année :** `Jour 263/365`
+> 💻 **Jour de l'année :** `Jour 264/365`
 
 </div>
 
@@ -187,5 +187,5 @@ Fun facts about this README:
 - 📈 Comprehensive GitHub stats
 - 🎲 Random content that changes daily
 
-Generated on: 20/09/2025 at 09:22
+Generated on: 21/09/2025 at 09:20
 -->
