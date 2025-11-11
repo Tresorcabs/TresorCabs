@@ -129,15 +129,15 @@ const Cabs = {
 ![Snake animation](https://github.com/TresorCabs/TresorCabs/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ### 💡 Citation du Jour
-> "Experience is the name everyone gives to their mistakes. – Oscar Wilde"
+> "La simplicité est l'âme de l'efficacité. – Austin Freeman"
 
 ### 🎲 Fait Aléatoire
 - 🍕 Nombre de pizzas consommées pendant le coding : ∞
-- ☕ Café bu aujourd'hui : `8 tasses`
-- 🎵 Actuellement en train d'écouter : Lo-fi Hip Hop
+- ☕ Café bu aujourd'hui : `7 tasses`
+- 🎵 Actuellement en train d'écouter : Classical
 
 ### 🔥 Fun Fact du Jour
-Le premier programme 'Hello World' date de 1972 👋
+Python tire son nom des Monty Python, pas du serpent ! 🐍
 
 </div>
 
@@ -153,7 +153,7 @@ Le premier programme 'Hello World' date de 1972 👋
 
 **📧 tresorbio16@gmail.com**
 
-*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 🎨*
+*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 🌟*
 
 </div>
 
@@ -169,9 +169,9 @@ Le premier programme 'Hello World' date de 1972 👋
 
 ---
 
-> 🤖 **Dernière mise à jour automatique :** 10/11/2025 à 08:27  
+> 🤖 **Dernière mise à jour automatique :** 11/11/2025 à 08:27  
 > 🔄 **Prochaine mise à jour :** Demain à 7h UTC  
-> 💻 **Jour de l'année :** `Jour 314/365`
+> 💻 **Jour de l'année :** `Jour 315/365`
 
 </div>
 
@@ -187,5 +187,5 @@ Fun facts about this README:
 - 📈 Comprehensive GitHub stats
 - 🎲 Random content that changes daily
 
-Generated on: 10/11/2025 at 08:27
+Generated on: 11/11/2025 at 08:27
 -->
