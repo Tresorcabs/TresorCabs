@@ -129,15 +129,15 @@ const Cabs = {
 ![Snake animation](https://github.com/TresorCabs/TresorCabs/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ### 💡 Citation du Jour
-> "Mesurer la productivité de la programmation par les lignes de code, c'est comme mesurer les progrès de la construction d'avions par le poids. – Bill Gates"
+> "Le code est comme l'humour. Quand tu dois l'expliquer, c'est mauvais. – Cory House"
 
 ### 🎲 Fait Aléatoire
 - 🍕 Nombre de pizzas consommées pendant le coding : ∞
-- ☕ Café bu aujourd'hui : `1 tasses`
-- 🎵 Actuellement en train d'écouter : Ambient
+- ☕ Café bu aujourd'hui : `5 tasses`
+- 🎵 Actuellement en train d'écouter : Jazz
 
 ### 🔥 Fun Fact du Jour
-Python tire son nom des Monty Python, pas du serpent ! 🐍
+90% du code mondial a été écrit ces 2 dernières années 📈
 
 </div>
 
@@ -153,7 +153,7 @@ Python tire son nom des Monty Python, pas du serpent ! 🐍
 
 **📧 tresorbio16@gmail.com**
 
-*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 🎨*
+*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! ✨*
 
 </div>
 
@@ -169,9 +169,9 @@ Python tire son nom des Monty Python, pas du serpent ! 🐍
 
 ---
 
-> 🤖 **Dernière mise à jour automatique :** 20/11/2025 à 08:26  
+> 🤖 **Dernière mise à jour automatique :** 21/11/2025 à 08:27  
 > 🔄 **Prochaine mise à jour :** Demain à 7h UTC  
-> 💻 **Jour de l'année :** `Jour 324/365`
+> 💻 **Jour de l'année :** `Jour 325/365`
 
 </div>
 
@@ -187,5 +187,5 @@ Fun facts about this README:
 - 📈 Comprehensive GitHub stats
 - 🎲 Random content that changes daily
 
-Generated on: 20/11/2025 at 08:26
+Generated on: 21/11/2025 at 08:27
 -->
