@@ -133,8 +133,8 @@ const Cabs = {
 
 ### 🎲 Fait Aléatoire
 - 🍕 Nombre de pizzas consommées pendant le coding : ∞
-- ☕ Café bu aujourd'hui : `4 tasses`
-- 🎵 Actuellement en train d'écouter : Lo-fi Hip Hop
+- ☕ Café bu aujourd'hui : `7 tasses`
+- 🎵 Actuellement en train d'écouter : Ambient
 
 ### 🔥 Fun Fact du Jour
 Python tire son nom des Monty Python, pas du serpent ! 🐍
@@ -153,7 +153,7 @@ Python tire son nom des Monty Python, pas du serpent ! 🐍
 
 **📧 tresorbio16@gmail.com**
 
-*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 🔬*
+*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 💻*
 
 </div>
 
@@ -169,9 +169,9 @@ Python tire son nom des Monty Python, pas du serpent ! 🐍
 
 ---
 
-> 🤖 **Dernière mise à jour automatique :** 26/11/2025 à 08:27  
+> 🤖 **Dernière mise à jour automatique :** 27/11/2025 à 08:28  
 > 🔄 **Prochaine mise à jour :** Demain à 7h UTC  
-> 💻 **Jour de l'année :** `Jour 330/365`
+> 💻 **Jour de l'année :** `Jour 331/365`
 
 </div>
 
@@ -187,5 +187,5 @@ Fun facts about this README:
 - 📈 Comprehensive GitHub stats
 - 🎲 Random content that changes daily
 
-Generated on: 26/11/2025 at 08:27
+Generated on: 27/11/2025 at 08:28
 -->
