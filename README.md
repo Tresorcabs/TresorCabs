@@ -19,7 +19,7 @@
 <!-- Compteur personnalisé qui s'incrémente à chaque visite -->
 ![Visiteurs](https://komarev.com/ghpvc/?username=TresorCabs&label=Visiteurs+Total&color=0e75b6&style=for-the-badge)
 
-**🎯 Objectif 2025 :** 1000 visiteurs uniques !
+**🎯 Objectif 2025 :** 500 visites uniques !
 
 </div>
 
