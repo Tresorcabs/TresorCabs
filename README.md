@@ -129,15 +129,15 @@ const Cabs = {
 ![Snake animation](https://github.com/TresorCabs/TresorCabs/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ### 💡 Citation du Jour
-> "Mesurer la productivité de la programmation par les lignes de code, c'est comme mesurer les progrès de la construction d'avions par le poids. – Bill Gates"
+> "Code is read much more often than it is written. – Guido van Rossum"
 
 ### 🎲 Fait Aléatoire
 - 🍕 Nombre de pizzas consommées pendant le coding : ∞
 - ☕ Café bu aujourd'hui : `3 tasses`
-- 🎵 Actuellement en train d'écouter : Jazz
+- 🎵 Actuellement en train d'écouter : Rock
 
 ### 🔥 Fun Fact du Jour
-Le terme 'debugging' vient de Grace Hopper qui a trouvé un papillon de nuit dans un ordinateur en 1947 🦋
+90% du code mondial a été écrit ces 2 dernières années 📈
 
 </div>
 
@@ -153,7 +153,7 @@ Le terme 'debugging' vient de Grace Hopper qui a trouvé un papillon de nuit dan
 
 **📧 tresorbio16@gmail.com**
 
-*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 🌟*
+*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 💻*
 
 </div>
 
@@ -169,9 +169,9 @@ Le terme 'debugging' vient de Grace Hopper qui a trouvé un papillon de nuit dan
 
 ---
 
-> 🤖 **Dernière mise à jour automatique :** 16/02/2026 à 08:58  
+> 🤖 **Dernière mise à jour automatique :** 17/02/2026 à 08:55  
 > 🔄 **Prochaine mise à jour :** Demain à 7h UTC  
-> 💻 **Jour de l'année :** `Jour 47/365`
+> 💻 **Jour de l'année :** `Jour 48/365`
 
 </div>
 
@@ -187,5 +187,5 @@ Fun facts about this README:
 - 📈 Comprehensive GitHub stats
 - 🎲 Random content that changes daily
 
-Generated on: 16/02/2026 at 08:58
+Generated on: 17/02/2026 at 08:55
 -->
