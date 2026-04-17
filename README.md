@@ -129,15 +129,15 @@ const Cabs = {
 ![Snake animation](https://github.com/TresorCabs/TresorCabs/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ### 💡 Citation du Jour
-> "Clean code always looks like it was written by someone who cares. – Robert C. Martin"
+> "Tout d'abord, résolvez le problème. Ensuite, écrivez le code. – John Johnson"
 
 ### 🎲 Fait Aléatoire
 - 🍕 Nombre de pizzas consommées pendant le coding : ∞
-- ☕ Café bu aujourd'hui : `8 tasses`
-- 🎵 Actuellement en train d'écouter : Jazz
+- ☕ Café bu aujourd'hui : `5 tasses`
+- 🎵 Actuellement en train d'écouter : Lo-fi Hip Hop
 
 ### 🔥 Fun Fact du Jour
-Le premier programme 'Hello World' date de 1972 👋
+Le terme 'debugging' vient de Grace Hopper qui a trouvé un papillon de nuit dans un ordinateur en 1947 🦋
 
 </div>
 
@@ -153,7 +153,7 @@ Le premier programme 'Hello World' date de 1972 👋
 
 **📧 tresorbio16@gmail.com**
 
-*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 🎯*
+*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 💡*
 
 </div>
 
@@ -169,9 +169,9 @@ Le premier programme 'Hello World' date de 1972 👋
 
 ---
 
-> 🤖 **Dernière mise à jour automatique :** 16/04/2026 à 09:42  
+> 🤖 **Dernière mise à jour automatique :** 17/04/2026 à 09:42  
 > 🔄 **Prochaine mise à jour :** Demain à 7h UTC  
-> 💻 **Jour de l'année :** `Jour 106/365`
+> 💻 **Jour de l'année :** `Jour 107/365`
 
 </div>
 
@@ -187,5 +187,5 @@ Fun facts about this README:
 - 📈 Comprehensive GitHub stats
 - 🎲 Random content that changes daily
 
-Generated on: 16/04/2026 at 09:42
+Generated on: 17/04/2026 at 09:42
 -->
