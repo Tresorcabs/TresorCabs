@@ -129,15 +129,15 @@ const Cabs = {
 ![Snake animation](https://github.com/TresorCabs/TresorCabs/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ### 💡 Citation du Jour
-> "Programming is not about typing, it's about thinking. – Rich Hickey"
+> "Clean code always looks like it was written by someone who cares. – Robert C. Martin"
 
 ### 🎲 Fait Aléatoire
 - 🍕 Nombre de pizzas consommées pendant le coding : ∞
-- ☕ Café bu aujourd'hui : `5 tasses`
-- 🎵 Actuellement en train d'écouter : Ambient
+- ☕ Café bu aujourd'hui : `2 tasses`
+- 🎵 Actuellement en train d'écouter : Synthwave
 
 ### 🔥 Fun Fact du Jour
-Le Wi-Fi n'est pas l'abréviation de 'Wireless Fidelity' 📶
+Le premier bug informatique était un vrai insecte coincé dans un ordinateur ! 🐛
 
 </div>
 
@@ -153,7 +153,7 @@ Le Wi-Fi n'est pas l'abréviation de 'Wireless Fidelity' 📶
 
 **📧 tresorbio16@gmail.com**
 
-*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 🔥*
+*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 🚀*
 
 </div>
 
@@ -169,9 +169,9 @@ Le Wi-Fi n'est pas l'abréviation de 'Wireless Fidelity' 📶
 
 ---
 
-> 🤖 **Dernière mise à jour automatique :** 20/04/2026 à 09:44  
+> 🤖 **Dernière mise à jour automatique :** 21/04/2026 à 09:42  
 > 🔄 **Prochaine mise à jour :** Demain à 7h UTC  
-> 💻 **Jour de l'année :** `Jour 110/365`
+> 💻 **Jour de l'année :** `Jour 111/365`
 
 </div>
 
@@ -187,5 +187,5 @@ Fun facts about this README:
 - 📈 Comprehensive GitHub stats
 - 🎲 Random content that changes daily
 
-Generated on: 20/04/2026 at 09:44
+Generated on: 21/04/2026 at 09:42
 -->
