@@ -133,11 +133,11 @@ const Cabs = {
 
 ### 🎲 Fait Aléatoire
 - 🍕 Nombre de pizzas consommées pendant le coding : ∞
-- ☕ Café bu aujourd'hui : `2 tasses`
-- 🎵 Actuellement en train d'écouter : Synthwave
+- ☕ Café bu aujourd'hui : `6 tasses`
+- 🎵 Actuellement en train d'écouter : Classical
 
 ### 🔥 Fun Fact du Jour
-Le premier bug informatique était un vrai insecte coincé dans un ordinateur ! 🐛
+Python tire son nom des Monty Python, pas du serpent ! 🐍
 
 </div>
 
@@ -153,7 +153,7 @@ Le premier bug informatique était un vrai insecte coincé dans un ordinateur ! 
 
 **📧 tresorbio16@gmail.com**
 
-*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 🚀*
+*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 💡*
 
 </div>
 
@@ -169,9 +169,9 @@ Le premier bug informatique était un vrai insecte coincé dans un ordinateur ! 
 
 ---
 
-> 🤖 **Dernière mise à jour automatique :** 21/04/2026 à 09:42  
+> 🤖 **Dernière mise à jour automatique :** 22/04/2026 à 09:42  
 > 🔄 **Prochaine mise à jour :** Demain à 7h UTC  
-> 💻 **Jour de l'année :** `Jour 111/365`
+> 💻 **Jour de l'année :** `Jour 112/365`
 
 </div>
 
@@ -187,5 +187,5 @@ Fun facts about this README:
 - 📈 Comprehensive GitHub stats
 - 🎲 Random content that changes daily
 
-Generated on: 21/04/2026 at 09:42
+Generated on: 22/04/2026 at 09:42
 -->
