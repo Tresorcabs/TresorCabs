@@ -133,11 +133,11 @@ const Cabs = {
 
 ### 🎲 Fait Aléatoire
 - 🍕 Nombre de pizzas consommées pendant le coding : ∞
-- ☕ Café bu aujourd'hui : `4 tasses`
-- 🎵 Actuellement en train d'écouter : Rock
+- ☕ Café bu aujourd'hui : `3 tasses`
+- 🎵 Actuellement en train d'écouter : Blues
 
 ### 🔥 Fun Fact du Jour
-Un développeur passe en moyenne 22% de son temps à déboguer 🔧
+90% du code mondial a été écrit ces 2 dernières années 📈
 
 </div>
 
@@ -153,7 +153,7 @@ Un développeur passe en moyenne 22% de son temps à déboguer 🔧
 
 **📧 tresorbio16@gmail.com**
 
-*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 💻*
+*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 💡*
 
 </div>
 
@@ -169,9 +169,9 @@ Un développeur passe en moyenne 22% de son temps à déboguer 🔧
 
 ---
 
-> 🤖 **Dernière mise à jour automatique :** 01/05/2026 à 09:51  
+> 🤖 **Dernière mise à jour automatique :** 02/05/2026 à 09:41  
 > 🔄 **Prochaine mise à jour :** Demain à 7h UTC  
-> 💻 **Jour de l'année :** `Jour 121/365`
+> 💻 **Jour de l'année :** `Jour 122/365`
 
 </div>
 
@@ -187,5 +187,5 @@ Fun facts about this README:
 - 📈 Comprehensive GitHub stats
 - 🎲 Random content that changes daily
 
-Generated on: 01/05/2026 at 09:51
+Generated on: 02/05/2026 at 09:41
 -->
