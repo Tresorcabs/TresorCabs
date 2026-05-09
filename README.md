@@ -133,11 +133,11 @@ const Cabs = {
 
 ### 🎲 Fait Aléatoire
 - 🍕 Nombre de pizzas consommées pendant le coding : ∞
-- ☕ Café bu aujourd'hui : `3 tasses`
-- 🎵 Actuellement en train d'écouter : Rock
+- ☕ Café bu aujourd'hui : `2 tasses`
+- 🎵 Actuellement en train d'écouter : Classical
 
 ### 🔥 Fun Fact du Jour
-Le premier programme 'Hello World' date de 1972 👋
+Le terme 'debugging' vient de Grace Hopper qui a trouvé un papillon de nuit dans un ordinateur en 1947 🦋
 
 </div>
 
@@ -153,7 +153,7 @@ Le premier programme 'Hello World' date de 1972 👋
 
 **📧 tresorbio16@gmail.com**
 
-*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 🔥*
+*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 💡*
 
 </div>
 
@@ -169,9 +169,9 @@ Le premier programme 'Hello World' date de 1972 👋
 
 ---
 
-> 🤖 **Dernière mise à jour automatique :** 08/05/2026 à 09:40  
+> 🤖 **Dernière mise à jour automatique :** 09/05/2026 à 09:42  
 > 🔄 **Prochaine mise à jour :** Demain à 7h UTC  
-> 💻 **Jour de l'année :** `Jour 128/365`
+> 💻 **Jour de l'année :** `Jour 129/365`
 
 </div>
 
@@ -187,5 +187,5 @@ Fun facts about this README:
 - 📈 Comprehensive GitHub stats
 - 🎲 Random content that changes daily
 
-Generated on: 08/05/2026 at 09:40
+Generated on: 09/05/2026 at 09:42
 -->
