@@ -129,15 +129,15 @@ const Cabs = {
 ![Snake animation](https://github.com/TresorCabs/TresorCabs/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ### 💡 Citation du Jour
-> "Le code est comme l'humour. Quand tu dois l'expliquer, c'est mauvais. – Cory House"
+> "Mesurer la productivité de la programmation par les lignes de code, c'est comme mesurer les progrès de la construction d'avions par le poids. – Bill Gates"
 
 ### 🎲 Fait Aléatoire
 - 🍕 Nombre de pizzas consommées pendant le coding : ∞
-- ☕ Café bu aujourd'hui : `8 tasses`
-- 🎵 Actuellement en train d'écouter : Blues
+- ☕ Café bu aujourd'hui : `7 tasses`
+- 🎵 Actuellement en train d'écouter : Lo-fi Hip Hop
 
 ### 🔥 Fun Fact du Jour
-Un développeur passe en moyenne 22% de son temps à déboguer 🔧
+Le premier programme 'Hello World' date de 1972 👋
 
 </div>
 
@@ -153,7 +153,7 @@ Un développeur passe en moyenne 22% de son temps à déboguer 🔧
 
 **📧 tresorbio16@gmail.com**
 
-*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! ⚙️*
+*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 🔬*
 
 </div>
 
@@ -169,9 +169,9 @@ Un développeur passe en moyenne 22% de son temps à déboguer 🔧
 
 ---
 
-> 🤖 **Dernière mise à jour automatique :** 14/05/2026 à 10:03  
+> 🤖 **Dernière mise à jour automatique :** 15/05/2026 à 10:08  
 > 🔄 **Prochaine mise à jour :** Demain à 7h UTC  
-> 💻 **Jour de l'année :** `Jour 134/365`
+> 💻 **Jour de l'année :** `Jour 135/365`
 
 </div>
 
@@ -187,5 +187,5 @@ Fun facts about this README:
 - 📈 Comprehensive GitHub stats
 - 🎲 Random content that changes daily
 
-Generated on: 14/05/2026 at 10:03
+Generated on: 15/05/2026 at 10:08
 -->
