@@ -129,15 +129,15 @@ const Cabs = {
 ![Snake animation](https://github.com/TresorCabs/TresorCabs/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ### 💡 Citation du Jour
-> "Experience is the name everyone gives to their mistakes. – Oscar Wilde"
+> "Programming is not about typing, it's about thinking. – Rich Hickey"
 
 ### 🎲 Fait Aléatoire
 - 🍕 Nombre de pizzas consommées pendant le coding : ∞
-- ☕ Café bu aujourd'hui : `3 tasses`
-- 🎵 Actuellement en train d'écouter : Jazz
+- ☕ Café bu aujourd'hui : `4 tasses`
+- 🎵 Actuellement en train d'écouter : Rock
 
 ### 🔥 Fun Fact du Jour
-Un développeur passe en moyenne 22% de son temps à déboguer 🔧
+Le premier programme 'Hello World' date de 1972 👋
 
 </div>
 
@@ -153,7 +153,7 @@ Un développeur passe en moyenne 22% de son temps à déboguer 🔧
 
 **📧 tresorbio16@gmail.com**
 
-*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 💻*
+*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 🌟*
 
 </div>
 
@@ -169,9 +169,9 @@ Un développeur passe en moyenne 22% de son temps à déboguer 🔧
 
 ---
 
-> 🤖 **Dernière mise à jour automatique :** 27/05/2026 à 10:25  
+> 🤖 **Dernière mise à jour automatique :** 28/05/2026 à 10:25  
 > 🔄 **Prochaine mise à jour :** Demain à 7h UTC  
-> 💻 **Jour de l'année :** `Jour 147/365`
+> 💻 **Jour de l'année :** `Jour 148/365`
 
 </div>
 
@@ -187,5 +187,5 @@ Fun facts about this README:
 - 📈 Comprehensive GitHub stats
 - 🎲 Random content that changes daily
 
-Generated on: 27/05/2026 at 10:25
+Generated on: 28/05/2026 at 10:25
 -->
