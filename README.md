@@ -133,11 +133,11 @@ const Cabs = {
 
 ### 🎲 Fait Aléatoire
 - 🍕 Nombre de pizzas consommées pendant le coding : ∞
-- ☕ Café bu aujourd'hui : `4 tasses`
-- 🎵 Actuellement en train d'écouter : Classical
+- ☕ Café bu aujourd'hui : `1 tasses`
+- 🎵 Actuellement en train d'écouter : Synthwave
 
 ### 🔥 Fun Fact du Jour
-Il y a plus de 700 langages de programmation dans le monde ! 🌍
+Le Wi-Fi n'est pas l'abréviation de 'Wireless Fidelity' 📶
 
 </div>
 
@@ -153,7 +153,7 @@ Il y a plus de 700 langages de programmation dans le monde ! 🌍
 
 **📧 tresorbio16@gmail.com**
 
-*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! ✨*
+*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 💡*
 
 </div>
 
@@ -169,9 +169,9 @@ Il y a plus de 700 langages de programmation dans le monde ! 🌍
 
 ---
 
-> 🤖 **Dernière mise à jour automatique :** 10/06/2026 à 10:29  
+> 🤖 **Dernière mise à jour automatique :** 11/06/2026 à 10:41  
 > 🔄 **Prochaine mise à jour :** Demain à 7h UTC  
-> 💻 **Jour de l'année :** `Jour 161/365`
+> 💻 **Jour de l'année :** `Jour 162/365`
 
 </div>
 
@@ -187,5 +187,5 @@ Fun facts about this README:
 - 📈 Comprehensive GitHub stats
 - 🎲 Random content that changes daily
 
-Generated on: 10/06/2026 at 10:29
+Generated on: 11/06/2026 at 10:41
 -->
