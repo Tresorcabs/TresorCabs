@@ -129,15 +129,15 @@ const Cabs = {
 ![Snake animation](https://github.com/TresorCabs/TresorCabs/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ### 💡 Citation du Jour
-> "Le code n'est jamais parfait, mais il peut toujours être amélioré. – Anonymous"
+> "Programming is not about typing, it's about thinking. – Rich Hickey"
 
 ### 🎲 Fait Aléatoire
 - 🍕 Nombre de pizzas consommées pendant le coding : ∞
-- ☕ Café bu aujourd'hui : `4 tasses`
-- 🎵 Actuellement en train d'écouter : Jazz
+- ☕ Café bu aujourd'hui : `6 tasses`
+- 🎵 Actuellement en train d'écouter : Electronic
 
 ### 🔥 Fun Fact du Jour
-Le premier bug informatique était un vrai insecte coincé dans un ordinateur ! 🐛
+Le premier programme 'Hello World' date de 1972 👋
 
 </div>
 
@@ -153,7 +153,7 @@ Le premier bug informatique était un vrai insecte coincé dans un ordinateur ! 
 
 **📧 tresorbio16@gmail.com**
 
-*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 🎯*
+*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 🎨*
 
 </div>
 
@@ -169,9 +169,9 @@ Le premier bug informatique était un vrai insecte coincé dans un ordinateur ! 
 
 ---
 
-> 🤖 **Dernière mise à jour automatique :** 18/06/2026 à 10:41  
+> 🤖 **Dernière mise à jour automatique :** 19/06/2026 à 10:53  
 > 🔄 **Prochaine mise à jour :** Demain à 7h UTC  
-> 💻 **Jour de l'année :** `Jour 169/365`
+> 💻 **Jour de l'année :** `Jour 170/365`
 
 </div>
 
@@ -187,5 +187,5 @@ Fun facts about this README:
 - 📈 Comprehensive GitHub stats
 - 🎲 Random content that changes daily
 
-Generated on: 18/06/2026 at 10:41
+Generated on: 19/06/2026 at 10:53
 -->
