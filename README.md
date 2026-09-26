@@ -133,11 +133,11 @@ const Cabs = {
 
 ### 🎲 Fait Aléatoire
 - 🍕 Nombre de pizzas consommées pendant le coding : ∞
-- ☕ Café bu aujourd'hui : `1 tasses`
-- 🎵 Actuellement en train d'écouter : Jazz
+- ☕ Café bu aujourd'hui : `8 tasses`
+- 🎵 Actuellement en train d'écouter : Rock
 
 ### 🔥 Fun Fact du Jour
-90% du code mondial a été écrit ces 2 dernières années 📈
+Le Wi-Fi n'est pas l'abréviation de 'Wireless Fidelity' 📶
 
 </div>
 
@@ -153,7 +153,7 @@ const Cabs = {
 
 **📧 tresorbio16@gmail.com**
 
-*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 🎯*
+*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 🌟*
 
 </div>
 
@@ -169,9 +169,9 @@ const Cabs = {
 
 ---
 
-> 🤖 **Dernière mise à jour automatique :** 25/09/2026 à 14:42  
+> 🤖 **Dernière mise à jour automatique :** 26/09/2026 à 14:10  
 > 🔄 **Prochaine mise à jour :** Demain à 7h UTC  
-> 💻 **Jour de l'année :** `Jour 268/365`
+> 💻 **Jour de l'année :** `Jour 269/365`
 
 </div>
 
@@ -187,5 +187,5 @@ Fun facts about this README:
 - 📈 Comprehensive GitHub stats
 - 🎲 Random content that changes daily
 
-Generated on: 25/09/2026 at 14:42
+Generated on: 26/09/2026 at 14:10
 -->
