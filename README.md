@@ -129,15 +129,15 @@ const Cabs = {
 ![Snake animation](https://github.com/TresorCabs/TresorCabs/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ### 💡 Citation du Jour
-> "La simplicité est l'âme de l'efficacité. – Austin Freeman"
+> "Un bon code est son propre meilleur documentation. – Steve McConnell"
 
 ### 🎲 Fait Aléatoire
 - 🍕 Nombre de pizzas consommées pendant le coding : ∞
-- ☕ Café bu aujourd'hui : `2 tasses`
-- 🎵 Actuellement en train d'écouter : Rock
+- ☕ Café bu aujourd'hui : `3 tasses`
+- 🎵 Actuellement en train d'écouter : Ambient
 
 ### 🔥 Fun Fact du Jour
-Python tire son nom des Monty Python, pas du serpent ! 🐍
+Le Wi-Fi n'est pas l'abréviation de 'Wireless Fidelity' 📶
 
 </div>
 
@@ -153,7 +153,7 @@ Python tire son nom des Monty Python, pas du serpent ! 🐍
 
 **📧 tresorbio16@gmail.com**
 
-*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 🎨*
+*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! ✨*
 
 </div>
 
@@ -169,9 +169,9 @@ Python tire son nom des Monty Python, pas du serpent ! 🐍
 
 ---
 
-> 🤖 **Dernière mise à jour automatique :** 20/10/2026 à 14:39  
+> 🤖 **Dernière mise à jour automatique :** 21/10/2026 à 14:51  
 > 🔄 **Prochaine mise à jour :** Demain à 7h UTC  
-> 💻 **Jour de l'année :** `Jour 293/365`
+> 💻 **Jour de l'année :** `Jour 294/365`
 
 </div>
 
@@ -187,5 +187,5 @@ Fun facts about this README:
 - 📈 Comprehensive GitHub stats
 - 🎲 Random content that changes daily
 
-Generated on: 20/10/2026 at 14:39
+Generated on: 21/10/2026 at 14:51
 -->
