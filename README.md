@@ -134,10 +134,10 @@ const Cabs = {
 ### 🎲 Fait Aléatoire
 - 🍕 Nombre de pizzas consommées pendant le coding : ∞
 - ☕ Café bu aujourd'hui : `4 tasses`
-- 🎵 Actuellement en train d'écouter : Ambient
+- 🎵 Actuellement en train d'écouter : Jazz
 
 ### 🔥 Fun Fact du Jour
-Un développeur passe en moyenne 22% de son temps à déboguer 🔧
+Le premier bug informatique était un vrai insecte coincé dans un ordinateur ! 🐛
 
 </div>
 
@@ -153,7 +153,7 @@ Un développeur passe en moyenne 22% de son temps à déboguer 🔧
 
 **📧 tresorbio16@gmail.com**
 
-*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 🔬*
+*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! ✨*
 
 </div>
 
@@ -169,9 +169,9 @@ Un développeur passe en moyenne 22% de son temps à déboguer 🔧
 
 ---
 
-> 🤖 **Dernière mise à jour automatique :** 14/11/2026 à 15:02  
+> 🤖 **Dernière mise à jour automatique :** 15/11/2026 à 15:40  
 > 🔄 **Prochaine mise à jour :** Demain à 7h UTC  
-> 💻 **Jour de l'année :** `Jour 318/365`
+> 💻 **Jour de l'année :** `Jour 319/365`
 
 </div>
 
@@ -187,5 +187,5 @@ Fun facts about this README:
 - 📈 Comprehensive GitHub stats
 - 🎲 Random content that changes daily
 
-Generated on: 14/11/2026 at 15:02
+Generated on: 15/11/2026 at 15:40
 -->
