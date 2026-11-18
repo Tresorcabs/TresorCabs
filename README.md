@@ -129,15 +129,15 @@ const Cabs = {
 ![Snake animation](https://github.com/TresorCabs/TresorCabs/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ### 💡 Citation du Jour
-> "La simplicité est l'âme de l'efficacité. – Austin Freeman"
+> "Le code n'est jamais parfait, mais il peut toujours être amélioré. – Anonymous"
 
 ### 🎲 Fait Aléatoire
 - 🍕 Nombre de pizzas consommées pendant le coding : ∞
-- ☕ Café bu aujourd'hui : `1 tasses`
-- 🎵 Actuellement en train d'écouter : Classical
+- ☕ Café bu aujourd'hui : `5 tasses`
+- 🎵 Actuellement en train d'écouter : Blues
 
 ### 🔥 Fun Fact du Jour
-Un développeur passe en moyenne 22% de son temps à déboguer 🔧
+Python tire son nom des Monty Python, pas du serpent ! 🐍
 
 </div>
 
@@ -153,7 +153,7 @@ Un développeur passe en moyenne 22% de son temps à déboguer 🔧
 
 **📧 tresorbio16@gmail.com**
 
-*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! ⚙️*
+*N'hésitez pas à me contacter pour des collaborations ou juste pour discuter tech ! 🔥*
 
 </div>
 
@@ -169,9 +169,9 @@ Un développeur passe en moyenne 22% de son temps à déboguer 🔧
 
 ---
 
-> 🤖 **Dernière mise à jour automatique :** 17/11/2026 à 17:49  
+> 🤖 **Dernière mise à jour automatique :** 18/11/2026 à 17:21  
 > 🔄 **Prochaine mise à jour :** Demain à 7h UTC  
-> 💻 **Jour de l'année :** `Jour 321/365`
+> 💻 **Jour de l'année :** `Jour 322/365`
 
 </div>
 
@@ -187,5 +187,5 @@ Fun facts about this README:
 - 📈 Comprehensive GitHub stats
 - 🎲 Random content that changes daily
 
-Generated on: 17/11/2026 at 17:49
+Generated on: 18/11/2026 at 17:21
 -->
